@@ -730,19 +730,6 @@ section {
   margin: 32px;
 }
 
-#cart-modal .modal-header .btn-close {
-  z-index: 2;
-  margin: 22px;
-}
-
-#cart-modal .modal-header {
-  border-bottom: 0;
-  padding: 0;
-}
-
-#cart-modal .modal-footer {
-  padding: 2rem 4rem;
-}
 
 /**********************************
   SKILL - PROGRESS BAR               
@@ -939,9 +926,6 @@ section {
     background-position: bottom;
   }
 
-  #cart-modal .modal-header .btn-close {
-    margin: 22px 14px;
-  }
 
   .custom-btn {
     font-size: 14px;
@@ -958,9 +942,7 @@ section {
     width: 75% !important;
   }
 
-  #cart-modal .modal-footer .row {
-    width: 100% !important;
-  }
+
 
   .site-header.section-padding,
   .section-padding {
@@ -1004,14 +986,8 @@ section {
     padding: 2rem;
   }
 
-  #cart-modal .modal-footer {
-    padding-right: 0;
-    padding-left: 0;
-  }
 
-  #cart-modal .modal-body {
-    padding: 4rem 2rem 2rem 2rem;
-  }
+
 
   .full-image-img {
     bottom: 0;

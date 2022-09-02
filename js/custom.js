@@ -8,7 +8,7 @@
       $('.preloader').delay(100).slideUp('slow'); 
     });
 
-    // [NAVBAR] //
+    /**  [NAVBAR] **/
     $(".navbar").headroom();
 
     $('.navbar-collapse a').click(function(){
